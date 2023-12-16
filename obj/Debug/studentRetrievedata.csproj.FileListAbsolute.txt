@@ -1,0 +1,7 @@
+C:\c# project2\studentRetrievedata\studentRetrievedata\bin\Debug\studentRetrievedata.exe.config
+C:\c# project2\studentRetrievedata\studentRetrievedata\bin\Debug\studentRetrievedata.exe
+C:\c# project2\studentRetrievedata\studentRetrievedata\bin\Debug\studentRetrievedata.pdb
+C:\c# project2\studentRetrievedata\studentRetrievedata\obj\Debug\studentRetrievedata.csproj.AssemblyReference.cache
+C:\c# project2\studentRetrievedata\studentRetrievedata\obj\Debug\studentRetrievedata.csproj.CoreCompileInputs.cache
+C:\c# project2\studentRetrievedata\studentRetrievedata\obj\Debug\studentRetrievedata.exe
+C:\c# project2\studentRetrievedata\studentRetrievedata\obj\Debug\studentRetrievedata.pdb
