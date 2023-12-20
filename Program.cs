@@ -10,7 +10,6 @@ class Program
      
             // Specify the path to your text file
             string filePath = @"C:\Users\LENOVO\Documents\new\student.txt";
-          //  File.Create(filePath);
           if(File.Exists(filePath))
         {
             string[] lines= File.ReadAllLines(filePath);
@@ -21,7 +20,10 @@ class Program
         }
         else
         {
-            Console.WriteLine("invalid file path");
+            File.Create(filePath);
+
+            //Console.WriteLine("invalid file path");
+            Console.ReadLine();
 
         }
           
